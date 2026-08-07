@@ -27,10 +27,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=Raghav-Pareek15048&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Raghav-Pareek15048&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghav-Pareek15048&theme=tokyonight" width="98%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghav-Pareek15048&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghav-Pareek15048&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghav-Pareek15048&theme=tokyonight" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav-Pareek15048&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
 ---
 
 ### 📌 Featured Projects
