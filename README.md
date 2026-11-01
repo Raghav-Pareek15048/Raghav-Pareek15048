@@ -1,132 +1,52 @@
 <div align="center">
 
-# Hey, I'm Raghav Pareek
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Raghav%20Pareek&fontSize=55&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Backend%20%E2%80%A2%20Algorithms%20%E2%80%A2%20Performance&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### AI/ML · Backend Engineering · Algorithms & Performance
-
-I enjoy building systems where **machine learning, backend engineering, and performance optimization** meet.
-
-Currently exploring how things work beneath the abstraction — from AI pipelines and APIs to graph algorithms and compiled Python.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+%26+Backend+Systems;Exploring+Algorithms+%26+Performance;Python+%E2%86%92+Cython+%E2%86%92+Faster+Code;Learning+by+Building+%26+Benchmarking" alt="Typing SVG" />
+</a>
 
 <br>
 
-<a href="https://github.com/Raghav-Pareek15048">
-  <img src="https://komarev.com/ghpvc/?username=Raghav-Pareek15048&style=flat-square&label=Profile+Views" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Raghav-Pareek15048&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-```python
-raghav = {
-    "education": "Computer Science & AI/ML",
-    "interests": [
-        "Artificial Intelligence",
-        "Backend Engineering",
-        "Algorithms",
-        "High-Performance Computing"
-    ],
-    "currently_exploring": [
-        "Cython",
-        "Graph Algorithms",
-        "AI/ML Systems",
-        "System Design"
-    ],
-    "philosophy": "Understand it. Build it. Measure it. Improve it."
-}
+```text
+CS + AI/ML Student
+Building → AI Systems • Backend • Algorithms
+Exploring → Cython • Performance • System Design
 ```
 
-I like going beyond *making something work* and understanding **why it works, where it slows down, and how it can be improved**.
+---
+
+## ⚡ Featured
+
+### [TSP Fast Solver](https://github.com/Raghav-Pareek15048/tsp-fast-solver)
+
+> High-performance routing & optimization in Python/Cython.
+
+`Dijkstra` · `CSR` · `Custom Heap` · `Cython` · `Held-Karp` · `2-opt` · `PyPI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Raghav-Pareek15048/tsp-fast-solver)
 
 ---
 
-## Featured Work
-
-### ⚡ TSP Fast Solver
-
-A high-performance routing and optimization project exploring **graph algorithms, Cython, memory-efficient graph representations, and algorithmic optimization**.
-
-**What I'm exploring through it:**
-
-- Custom Dijkstra implementation
-- CSR graph representation
-- Custom binary heap
-- Python → Cython optimization
-- Multi-point shortest-path computation
-- Held–Karp TSP
-- 2-opt optimization
-- Performance benchmarking & bottleneck analysis
-- Python package distribution through PyPI
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Raghav-Pareek15048/tsp-fast-solver)
-
----
-
-### 🧠 AI / Machine Learning Projects
-
-Working on systems involving:
-
-- Natural Language Processing
-- Named Entity Recognition
-- Semantic similarity
-- Sentence Transformers
-- Vector embeddings
-- Neural networks
-- Explainable AI
-- AI-assisted material matching and deduplication
-
-My focus is increasingly on understanding the **complete AI pipeline** — from data and preprocessing to inference, evaluation, deployment, and optimization.
-
----
-
-## Tech I Work With
+## 🛠 Tech
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,redis" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,pytorch,sklearn,fastapi,postgres,supabase,redis,docker,git,github,linux,vscode&perline=8" />
 
 </div>
 
 ---
 
-## What I'm Currently Learning
-
-```text
-Algorithms           ███████████████░░░░░
-AI / ML Systems      ██████████████░░░░░░
-Backend Engineering  ███████████████░░░░░
-System Design        ██████████░░░░░░░░░░
-Performance          ████████████░░░░░░░░
-```
-
-The bars aren't meant to represent mastery — just where I'm currently spending my time.
-
----
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -134,79 +54,54 @@ The bars aren't meant to represent mastery — just where I'm currently spending
 
 <br>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghav-Pareek15048&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghav-Pareek15048&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghav-Pareek15048&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raghav-Pareek15048&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav-Pareek15048&theme=tokyonight&hide_border=true" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav-Pareek15048&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghav-Pareek15048&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raghav-Pareek15048&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
 ---
 
-## Engineering Interests
+## 📈 Contribution Activity
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🤖 Artificial Intelligence
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav-Pareek15048&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-- Machine Learning
-- NLP
-- Neural Networks
-- Semantic Search
-- Embeddings
-- Explainable AI
-- Neural-Symbolic Systems
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Software Engineering
-
-- Backend Architecture
-- REST APIs
-- Graph Algorithms
-- Performance Optimization
-- Databases
-- System Design
-- Python Internals / Cython
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## A Bit About How I Build
+## 🐍 Contributions
 
-I use AI heavily while developing — but I try not to treat generated code as a black box.
+<div align="center">
 
-My goal is to understand the:
+<img src="https://raw.githubusercontent.com/Raghav-Pareek15048/Raghav-Pareek15048/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-**architecture → algorithm → implementation → bottleneck → optimization → benchmark**
-
-That process has pushed me to explore areas I probably wouldn't have reached as quickly otherwise, particularly performance engineering and lower-level optimization.
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### `while(alive) { learn(); build(); optimize(); }`
+
+<br>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-**Always learning. Always building.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%"/>
 
 </div>
