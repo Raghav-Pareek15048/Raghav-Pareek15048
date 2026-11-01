@@ -46,46 +46,6 @@ Exploring → Cython • Performance • System Design
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghav-Pareek15048&theme=tokyonight" />
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raghav-Pareek15048&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav-Pareek15048&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghav-Pareek15048&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raghav-Pareek15048&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav-Pareek15048&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Raghav-Pareek15048/Raghav-Pareek15048/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
 <div align="center">
 
 ### `while(alive) { learn(); build(); optimize(); }`
